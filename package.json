@@ -1,0 +1,26 @@
+{
+  "name": "template-bot-discord.js",
+  "version": "1.0.0",
+  "description": "A Template For Bot Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzukioPrs/template-discord-bot.js.git"
+  },
+  "author": "!\"Its_Azukio#8075",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzukioPrs/template-discord-bot.js/issues"
+  },
+  "homepage": "https://github.com/AzukioPrs/template-discord-bot.js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pretty-ms": "^8.0.0"
+  }
+}

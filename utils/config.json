@@ -1,0 +1,12 @@
+{
+    "embed": {
+        "name": "Template Bot",
+        "color": "#4B6DD1"
+    },
+    "confbot": {
+        "prefix": "PREFIX",
+        "client_id": "CLIENT_ID",
+        "client_secret": "CLIENT_SECRET",
+        "public_key": "PUBLIC_KEY"
+    }
+}
